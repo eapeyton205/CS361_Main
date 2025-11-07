@@ -21,7 +21,7 @@ A smart web application for managing your to-be-read (TBR) list with intelligent
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/bookbase.git
+git clone https://github.com/eapeyton205/CS361_Main.git
 cd bookbase
 ```
 
